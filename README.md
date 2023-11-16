@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/gayathri.png" alt="gayathri" width="50px" height="50px"></h1>
+<h1 align="center">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/gayathri.png" alt="gayathri" width="100px" height="100px"></h1>
 <h3 align="center">A passionate Web developer</h3>
 
 <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/best-cms-web-development-900x581.jpg">
