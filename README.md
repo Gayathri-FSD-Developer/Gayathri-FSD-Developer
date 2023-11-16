@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Gonna Write about parenting](Gonna Write about parenting)
 
-- 💬 Ask me about **Html,Css,Php,Asp.net,Wordpress,Bigcommerce,Shopify And Drop-Shipping**
+- 💬 Ask me about **HTML, CSS, PHP, and Asp. net,WordPress,Bigcommerce, Shopify And Drop-Shipping**
 
 - 📫 How to reach me **gayathribalan52@gmail.com**
 
