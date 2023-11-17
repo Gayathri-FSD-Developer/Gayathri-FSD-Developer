@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/gayathri.png" alt="gayathri" width="100px" height="100px"></h1>
+<h1 align="center">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/gayathri.png" alt="gayathri" width="2500px" height="250px"></h1>
 <h3 align="center">A passionate Web developer</h3>
 
 <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/best-cms-web-development-900x581.jpg">
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Gonna Write about parenting](Gonna Write about parenting)
 
-- 💬 Ask me about **HTML, CSS, PHP, and Asp. net,WordPress,Bigcommerce, Shopify And Drop-Shipping**
+- 💬 Ask me about **HTML, CSS, PHP, and ASP. net, WordPress, Bigcommerce, Shopify And Drop-Shipping**
 
 - 📫 How to reach me **gayathribalan52@gmail.com**
 
