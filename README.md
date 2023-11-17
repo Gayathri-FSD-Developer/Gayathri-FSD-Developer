@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/gayathri.png" alt="gayathri" width="100px" height="100px"></h1>
+<h1 align="center">Hi 👋, I'm <img src="" alt="gayathri" width="100px" height="100px"></h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/best-cms-web-development-900x581.jpg">
+<img src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
