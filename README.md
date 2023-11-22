@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer</h3>
 <img src="https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/best-cms-web-development-900x581.jpg">
 
-<p align="left" style="background-image: url('https://github.com/Gayathri-FSD-Developer/GitHub/blob/main/best-cms-web-development-900x581.jpg')"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri-fsd-developer" alt="gayathri-fsd-developer" /></a> </p>
 
