@@ -1,8 +1,4 @@
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
     <style>
         .background{
             background-image: url("computer-2982270_640.jpg");
@@ -16,7 +12,7 @@
     <h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(23, 101, 104); font-weight: bold" align="center">Hi 👋, I'm <img src="new_gayathri.png" style="height: 60px;width: 200px;" alt="gayathri"></h1>
 <h3 style="color: cadetblue; font-weight: bold;" align="center">A passionate Web developer</h3>
 
-<div  class="background">
+<div  class="background" >
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri-fsd-developer" alt="gayathri-fsd-developer" /></a> </p>
@@ -45,8 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayathri-fsd-developer&show_icons=true&locale=en&layout=compact" alt="gayathri-fsd-developer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayathri-fsd-developer&show_icons=true&locale=en" alt="gayathri-fsd-developer" /></p>
-</main>
-</body>
-</html>
+
 
 
