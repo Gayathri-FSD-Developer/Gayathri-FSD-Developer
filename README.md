@@ -1,7 +1,7 @@
- <h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(23, 101, 104); font-weight: bold" align="center">Hi 👋, I'm <img src="new_gayathri.png" style="height: 60px;width: 200px;" alt="gayathri"></h1>
+ <h1 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(23, 101, 104); font-weight: bold" align="center">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/new_gayathri.png" style="height: 60px;width: 200px;" alt="gayathri"></h1>
 <h3 style="color: cadetblue; font-weight: bold;" align="center">A passionate Web developer</h3>
 
-<div  style="background-image: url('computer-2982270_640.jpg'); width: 500px; height: 400px;" >
+<div  style="background-image: url('https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/computer-2982270_640.jpg'); width: 500px; height: 400px;" >
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri-fsd-developer" alt="gayathri-fsd-developer" /></a> </p>
