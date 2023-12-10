@@ -1,5 +1,5 @@
-<body background="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/computer-2982270_640.jpg" weigth="500px" height="500px">
-    <h1  align="center"><font color ="white" size ="50">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/new_gayathri.png" height= "60" width="200" alt="gayathri"></font></h1>
+<body background="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/25f07121e35f9787062fbca9e778ecf591b815d3/computer-2982270_640.jpg" weigth="500px" height="500px">
+    <h1  align="center"><font color ="white" size ="50">Hi 👋, I'm <img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/25f07121e35f9787062fbca9e778ecf591b815d3/new_gayathri.png" height= "60" width="200" alt="gayathri"></font></h1>
 <h3 align="center"> <font size="20%" color=#00064 >A passionate Web developer</font></h3>
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
