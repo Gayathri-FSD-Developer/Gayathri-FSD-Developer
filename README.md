@@ -1,5 +1,4 @@
 <body background="computer-2982270_640.jpg" weigth="500px" height="500px">
-    <!-- style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; color: rgb(23, 101, 104); font-weight: bold" -->
     <h1  align="center"><font color ="white" size ="50">Hi 👋, I'm <img src="new_gayathri.png" height= "60" width="200" alt="gayathri"></font></h1>
 <h3 align="center"> <font size="20%" color=#00064 >A passionate Web developer</font></h3>
 
