@@ -1,9 +1,6 @@
-<body background="computer-2982270_640.jpg" weigth="500px" height="500px">
-    <h1  align="center"><font color ="white" size ="50">Hi 👋, I'm <img src="new_gayathri.png" height= "60" width="200" alt="gayathri"></font></h1>
+<body background="/main/computer-2982270_640.jpg" weigth="500px" height="500px">
+    <h1  align="center"><font color ="white" size ="50">Hi 👋, I'm <img src="/main/new_gayathri.png" height= "60" width="200" alt="gayathri"></font></h1>
 <h3 align="center"> <font size="20%" color=#00064 >A passionate Web developer</font></h3>
-
-
-    <!-- <img src="computer-2982270_640.jpg" width: 500px height: 400px> -->
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri-fsd-developer" alt="gayathri-fsd-developer" /></a> </p>
