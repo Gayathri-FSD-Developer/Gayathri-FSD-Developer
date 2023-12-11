@@ -1,4 +1,4 @@
- <h3 align="center"> <font size="40px" color=#00064 >A passionate Web developer</font></h3><img src="/main/Readme.png" width="900px" height="500px"><img src="/main/qr resume.png" width="200px" height="200px" align="margin-right"> 
+ <h3 align="center"> <font size="40px" color=#00064 >A passionate Web developer</font></h3><img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/Readme.png" width="900px" height="500px"><img src="https://github.com/Gayathri-FSD-Developer/Gayathri-FSD-Developer/blob/main/qr%20resume.png" width="200px" height="200px" align="margin-right"> 
 <p  align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-fsd-developer&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-fsd-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayathri-fsd-developer" alt="gayathri-fsd-developer" /></a> </p>
